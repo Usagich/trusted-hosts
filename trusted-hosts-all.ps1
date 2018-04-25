@@ -1,0 +1,1 @@
+﻿set-item wsman:\localhost\Client\TrustedHosts -value *
